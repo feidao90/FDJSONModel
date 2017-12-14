@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
                    DESC
 
 
-  s.homepage     = "https://github.com/feidaoGavin/VOJSONModel/tree/"
+  s.homepage     = "https://github.com/feidaoGavin/VOJSONModel/tree/master"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -54,9 +54,9 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "何广忠" => "heguangzhong@nosppp.com" }
+  s.author             = { "何广忠" => "heguangzhong2009@gmail.com" }
   # Or just: s.author    = "何广忠"
-  # s.authors            = { "何广忠" => "heguangzhong@nosppp.com" }
+  # s.authors            = { "何广忠" => "heguangzhong2009@gmail.com" }
   # s.social_media_url   = "http://twitter.com/何广忠"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -66,7 +66,7 @@ Pod::Spec.new do |s|
   #
 
   # s.platform     = :ios
-  # s.platform     = :ios, "5.0"
+  # s.platform     = :ios, "9.0"
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
