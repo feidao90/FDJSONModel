@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
                    DESC
 
 
-  s.homepage     = "https://github.com/feidaoGavin/Voffice/projects/1"
+  s.homepage     = "https://github.com/feidaoGavin/VOJSONModel/tree/"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
