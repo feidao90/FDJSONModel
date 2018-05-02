@@ -1,6 +1,29 @@
 # VOJSONModel
-# VOJSONModel
----
-## 介绍
 
-VOJSONModel是一个方便你快速创建数据Model的库。并对mtop接口的返回数据类型做了优化。VOJSONModel会自动根据当前Model的属性来解析JSON的字典对象。借鉴了[JSONModel](https://github.com/icanzilb/JSONModel)和[Mantle](https://github.com/github/Mantle)。
+[![CI Status](https://img.shields.io/travis/heguangzhong2009@gmail.com/VOService.svg?style=flat)](https://travis-ci.org/heguangzhong2009@gmail.com/VOJSONModel)
+[![Version](https://img.shields.io/cocoapods/v/VOJSONModel.svg?style=flat)](https://cocoapods.org/pods/VOJSONModel)
+[![License](https://img.shields.io/cocoapods/l/VOJSONModel.svg?style=flat)](https://cocoapods.org/pods/VOJSONModel)
+[![Platform](https://img.shields.io/cocoapods/p/VOJSONModel.svg?style=flat)](https://cocoapods.org/pods/VOJSONModel)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+VOService is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'VOJSONModel'
+```
+
+## Author
+
+heguangzhong2009@gmail.com, heguangzhong@nosppp.com
+
+## License
+
+VOService is available under the MIT license. See the LICENSE file for more info.
