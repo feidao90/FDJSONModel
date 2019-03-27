@@ -1,4 +1,4 @@
-# VOJSONModel
+# FDJSONModel
 
 [![CI Status](https://img.shields.io/travis/heguangzhong2009@gmail.com/VOService.svg?style=flat)](https://travis-ci.org/heguangzhong2009@gmail.com/VOJSONModel)
 [![Version](https://img.shields.io/cocoapods/v/VOJSONModel.svg?style=flat)](https://cocoapods.org/pods/VOJSONModel)
@@ -26,4 +26,4 @@ heguangzhong2009@gmail.com
 
 ## License
 
-VOJSONModel is available under the MIT license. See the LICENSE file for more info.
+FDJSONModel is available under the MIT license. See the LICENSE file for more info.
